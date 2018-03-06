@@ -1,4 +1,4 @@
-package bugong;
+package bugong.jdbc.annotation;
 
 import java.lang.annotation.*;
 

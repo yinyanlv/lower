@@ -1,4 +1,4 @@
-package bugong;
+package bugong.jdbc.enums;
 
 public enum Type {
 

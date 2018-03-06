@@ -1,4 +1,6 @@
-package bugong;
+package bugong.jdbc;
+
+import bugong.jdbc.annotation.Table;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
