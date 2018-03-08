@@ -18,7 +18,6 @@ public class Hello extends HttpServlet {
 
         PrintWriter writer = resp.getWriter();
 
-        System.out.println("dddddddddddddddddddd");
         writer.write("hello world!");
     }
 }
